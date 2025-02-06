@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A collection of TypeScript-focused prompts for Cursor",
   "author": "jeremytoce",
-  "prompts": [
+  "templates": [
     "type-inference",
     "interface-builder",
     "type-guard",
