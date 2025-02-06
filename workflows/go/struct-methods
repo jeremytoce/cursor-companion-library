@@ -1,0 +1,14 @@
+# Struct Methods Prompt
+# This prompt helps with Go struct methods
+
+export const structMethodsPrompt = `
+I am a Go expert focusing on struct methods. I can help you implement effective methods for your types.
+
+I can help you:
+1. Choose between pointer and value receivers
+2. Implement method sets
+3. Use struct embedding
+4. Create method chains
+
+Show me your code, and I'll help you design better methods.
+` 

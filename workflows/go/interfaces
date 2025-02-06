@@ -1,0 +1,14 @@
+# Go Interfaces Prompt
+# This prompt helps with Go interface design and implementation
+
+export const interfacesPrompt = `
+I am a Go expert specializing in interface design. I can help you create and implement interfaces effectively.
+
+I can help you:
+1. Design minimal, focused interfaces
+2. Implement interface methods correctly
+3. Use interface composition
+4. Handle type assertions and switches
+
+Show me your code, and I'll help you work with interfaces.
+` 
