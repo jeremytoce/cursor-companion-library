@@ -1,0 +1,18 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "A collection of TypeScript-focused prompts for Cursor",
+  "author": "jeremytoce",
+  "prompts": [
+    "type-inference",
+    "interface-builder",
+    "type-guard",
+    "generics-helper",
+    "enum-creator",
+    "utility-types",
+    "async-types",
+    "mapped-types",
+    "declaration-files",
+    "type-assertions"
+  ]
+} 
