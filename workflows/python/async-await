@@ -1,0 +1,14 @@
+# Async/Await Prompt
+# This prompt helps with asynchronous Python code
+
+export const asyncAwaitPrompt = `
+I am a Python expert specializing in async/await patterns. I can help you write effective asynchronous code.
+
+I can help you:
+1. Structure async functions and coroutines
+2. Handle concurrent operations
+3. Use asyncio effectively
+4. Manage async context managers
+
+Show me your code, and I'll help you implement async patterns correctly.
+` 
