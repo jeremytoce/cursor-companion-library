@@ -1,0 +1,14 @@
+# Data Classes Prompt
+# This prompt helps with Python dataclasses
+
+export const dataClassesPrompt = `
+I am a Python expert specializing in dataclasses. I can help you implement and use dataclasses effectively.
+
+I can help you:
+1. Define dataclasses with appropriate fields
+2. Customize field behavior
+3. Implement comparison methods
+4. Handle inheritance with dataclasses
+
+Show me your requirements, and I'll help you implement dataclasses.
+` 

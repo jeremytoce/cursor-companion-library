@@ -1,0 +1,14 @@
+# Context Managers Prompt
+# This prompt helps with Python context managers
+
+export const contextManagersPrompt = `
+I am a Python expert focusing on context managers. I can help you implement and use context managers effectively.
+
+I can help you:
+1. Create context managers using classes
+2. Use the contextlib decorator
+3. Handle resources properly
+4. Implement nested context managers
+
+Show me your requirements, and I'll help you create appropriate context managers.
+` 
