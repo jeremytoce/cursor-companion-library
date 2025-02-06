@@ -3,16 +3,47 @@
   "version": "1.0.0",
   "description": "A collection of TypeScript-focused prompts for Cursor",
   "author": "jeremytoce",
-  "templates": [
-    "type-inference",
-    "interface-builder",
-    "type-guard",
-    "generics-helper",
-    "enum-creator",
-    "utility-types",
-    "async-types",
-    "mapped-types",
-    "declaration-files",
-    "type-assertions"
+  "tags": ["typescript", "javascript", "web", "frontend", "types"],
+  "prompts": [
+    {
+      "name": "type-inference",
+      "description": "Helps understand and improve TypeScript's type inference system, including better type annotations and complex scenarios"
+    },
+    {
+      "name": "interface-builder",
+      "description": "Assists in creating robust TypeScript interfaces with proper property types and inheritance patterns"
+    },
+    {
+      "name": "type-guard",
+      "description": "Helps create type guard functions for type narrowing and user-defined type predicates"
+    },
+    {
+      "name": "generics-helper",
+      "description": "Guides through generic type parameters, constraints, and generic interface implementation"
+    },
+    {
+      "name": "enum-creator",
+      "description": "Assists in creating and documenting enums, including best practices and string literal conversions"
+    },
+    {
+      "name": "utility-types",
+      "description": "Helps with TypeScript utility types like Partial, Readonly, Pick, and Record"
+    },
+    {
+      "name": "async-types",
+      "description": "Guides through Promise type definitions and async/await type annotations"
+    },
+    {
+      "name": "mapped-types",
+      "description": "Assists with creating mapped type definitions and key remapping"
+    },
+    {
+      "name": "declaration-files",
+      "description": "Helps create .d.ts files and module declarations"
+    },
+    {
+      "name": "type-assertions",
+      "description": "Guides through type assertions, const assertions, and their proper usage"
+    }
   ]
 } 

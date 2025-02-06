@@ -3,16 +3,47 @@
   "version": "1.0.0",
   "description": "A collection of Go-focused prompts for Cursor",
   "author": "jeremytoce",
-  "templates": [
-    "interfaces",
-    "goroutines",
-    "error-handling",
-    "struct-methods",
-    "concurrency-patterns",
-    "testing",
-    "generics",
-    "dependency-injection",
-    "middleware",
-    "reflection"
+  "tags": ["go", "golang", "backend", "systems", "concurrency"],
+  "prompts": [
+    {
+      "name": "interfaces",
+      "description": "Helps design and implement Go interfaces effectively, including composition and type assertions"
+    },
+    {
+      "name": "goroutines",
+      "description": "Guides through concurrent programming with goroutines, including lifecycle management and synchronization"
+    },
+    {
+      "name": "error-handling",
+      "description": "Assists with implementing idiomatic Go error handling, custom error types, and error wrapping"
+    },
+    {
+      "name": "struct-methods",
+      "description": "Helps implement methods for structs, choosing receivers, and handling embedding patterns"
+    },
+    {
+      "name": "concurrency-patterns",
+      "description": "Guides through implementing common Go concurrency patterns like worker pools and pipeline processing"
+    },
+    {
+      "name": "testing",
+      "description": "Assists with writing effective Go tests, including table-driven tests and benchmarks"
+    },
+    {
+      "name": "generics",
+      "description": "Helps implement generic types and functions using Go's type parameter system"
+    },
+    {
+      "name": "dependency-injection",
+      "description": "Guides through structuring applications with clean dependency injection patterns"
+    },
+    {
+      "name": "middleware",
+      "description": "Assists with creating and chaining HTTP middleware in Go web applications"
+    },
+    {
+      "name": "reflection",
+      "description": "Helps use the reflect package effectively for runtime type inspection and manipulation"
+    }
   ]
 } 

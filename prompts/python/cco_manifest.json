@@ -3,16 +3,47 @@
   "version": "1.0.0",
   "description": "A collection of Python-focused prompts for Cursor",
   "author": "jeremytoce",
-  "templates": [
-    "decorator-helper",
-    "type-hints",
-    "async-await",
-    "context-managers",
-    "generators",
-    "metaclasses",
-    "testing-pytest",
-    "error-handling",
-    "data-classes",
-    "dependency-injection"
+  "tags": ["python", "backend", "scripting", "data-science", "testing"],
+  "prompts": [
+    {
+      "name": "decorator-helper",
+      "description": "Helps create and use Python decorators, including function decorators, class decorators, and decorator factories"
+    },
+    {
+      "name": "type-hints",
+      "description": "Assists with Python type annotations, including generics, unions, and protocols using the typing module"
+    },
+    {
+      "name": "async-await",
+      "description": "Guides through asynchronous programming in Python using async/await, coroutines, and asyncio"
+    },
+    {
+      "name": "context-managers",
+      "description": "Helps implement context managers using both class-based and decorator approaches for resource management"
+    },
+    {
+      "name": "generators",
+      "description": "Assists with creating generator functions, implementing iterators, and using yield expressions efficiently"
+    },
+    {
+      "name": "metaclasses",
+      "description": "Guides through creating and using metaclasses for class creation customization and registration patterns"
+    },
+    {
+      "name": "testing-pytest",
+      "description": "Helps write effective tests using pytest, including fixtures, parametrization, and mocking"
+    },
+    {
+      "name": "error-handling",
+      "description": "Assists with implementing robust error handling, custom exceptions, and proper cleanup patterns"
+    },
+    {
+      "name": "data-classes",
+      "description": "Guides through using the @dataclass decorator, customizing fields, and implementing comparisons"
+    },
+    {
+      "name": "dependency-injection",
+      "description": "Helps implement clean dependency injection patterns, containers, and testable service structures"
+    }
   ]
 } 
