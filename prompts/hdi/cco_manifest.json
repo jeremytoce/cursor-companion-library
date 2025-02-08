@@ -1,0 +1,13 @@
+{
+  "name": "hdi",
+  "version": "1.0.0",
+  "description": "Quick terminal command reference helper",
+  "author": "jeremytoce",
+  "tags": ["terminal", "cli", "commands", "reference", "utility"],
+  "prompts": [
+    {
+      "name": "hdi",
+      "description": "Provides quick terminal command references and reminders"
+    }
+  ]
+} 
